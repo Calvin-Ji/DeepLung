@@ -1,2 +1,2 @@
 # DeepLung
-DeepLung is a deep learning model that classifies chest X-rays to detect the presence of tuberculosis. The project is based on a convolutional neural network architecture that is trained on a large dataset of tuberculosis and non-tuberculosis chest X-rays.
+DeepLung is a deep learning model that classifies chest X-rays to detect the presence of tuberculosis. The project is based on a convolutional neural network architecture that is trained on a large dataset of tuberculosis and non-tuberculosis chest X-rays.v
